@@ -2,7 +2,7 @@ This weather website was created as a side project duing my 1st year doing compu
 
 
 This website aims to be a simple weather app which shows the temperature, humidity, sky conditions and the feels like temperature of any particular city that the user enters. For this the website uses JS API 
-from openWeather which gives the website all the information about the weather.
+from openWeather which gives the website all the information about the weather. The languages used for making of this weather app is html, css and js. 
 
 
 ## Going to the website 
